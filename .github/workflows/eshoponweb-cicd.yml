@@ -9,7 +9,7 @@ env:
   LOCATION: West US 2
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 1167c464-00fe-4b6b-8c7b-04e696e649de
-  WEBAPP-NAME: webapi2025
+  WEBAPP-NAME: webapii
 
 
 jobs:
